@@ -1,0 +1,32 @@
+
+/**
+boxes with colors
+**/
+
+
+.red {
+    border-style: solid;
+    border-width: 10px;
+    width: 100px;
+    height: 100px;
+    border-color:darkred;
+    background: linear-gradient(0deg, #FFA07A 60%, #FF0000 60%);
+    
+}
+.yellow{
+    border-style: solid;
+    border-width: 10px;
+    width: 100px;
+    height: 100px;
+    border-color: darkorange;
+    background-color: yellow;
+    
+}
+.green{
+    border-style: solid;
+    border-width: 10px;
+    width: 100px;
+    height: 100px;
+    border-color: darkgreen;
+    background: green;
+}
